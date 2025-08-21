@@ -1,6 +1,6 @@
 streamlit==1.37.0
 scikit-learn==1.6.1
-pandas==2.2.2
+pandas==2.1.4
 joblib==1.5.1
 gensim==4.3.3
 Distance==0.1.3
