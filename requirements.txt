@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+joblib
+gensim
+distance
+numpy
+matplotlib
+seaborn
+bs4
